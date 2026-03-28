@@ -1,1 +1,6 @@
-/potenv
+potenv/
+env/
+venv/
+
+#folder 
+dataset/
