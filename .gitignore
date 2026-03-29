@@ -4,3 +4,6 @@ venv/
 
 #folder 
 dataset/
+
+*.keras
+*.h5
